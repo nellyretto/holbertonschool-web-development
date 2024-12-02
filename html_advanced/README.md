@@ -40,6 +40,7 @@ A README.md file, at the root of the folder of the project is mandatory
 You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
 Your code should be W3C compliant and validate with W3C-Validator
 
+---
 `0. README and objectives!`
 
 In this and coming projects, you will implement from scratch a webpage from a designer file.
@@ -47,6 +48,7 @@ In this and coming projects, you will implement from scratch a webpage from a de
 For this first project, you will focus on the HTML structure only - no CSS, no style - just pure HTML semantic.
 
 For this task, please write an amazing README.md
+
 ---
 `1. Header`
 Let’s start at the top: the header
@@ -60,6 +62,7 @@ Let’s start at the top: the header
 Add a link element with an image inside
 
 Add a block of 3 link elements
+
 ---
 `2. Banner`
 
@@ -81,7 +84,9 @@ A block containing 4 blocks - each block containing:<br>
 An image<br>
 A heading tag (level 3)<br>
 A text
+
 ---
+
 `3. Quote`
 
 The quote section is inside the main:
