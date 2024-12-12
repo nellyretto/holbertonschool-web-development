@@ -2,7 +2,7 @@
 
 ![gif](https://blogs.purecode.ai/blogs/wp-content/uploads/2024/01/untitled7-1.gif)
 
-<hr style="border:2px solid #e08bdb">
+<hr style="border:2px solid pink">
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
